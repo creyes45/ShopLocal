@@ -1,5 +1,27 @@
 ## Welcome to GitHub Pages
 
+[Sign Up](Sign-Up.html)
+
+[Sign In](Sign-In.html)
+
+[Change Username](Change-Username.html)
+
+[Set/Change Profile Picture](Set-Change-Profile-Picture.html)
+
+[Create Posts](Create-Posts.html)
+
+[Like, Comment, Share Others Posts](Like-Comment-Share-Others-Posts.html)
+
+[Follow Other Pages](Follow-Other-Pages.html)
+
+[Report Posts](Report-Posts.html)
+
+[Administrator Review Posts](Administrator-Review-Posts.html)
+
+[Offer Coupons](Offer-Coupons.html)
+
+[Purchase Ads](Purchase-Ads.html)
+
 You can use the [editor on GitHub](https://github.com/creyes45/ShopLocal/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
