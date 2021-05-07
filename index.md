@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to the ShopLocal home page!
 
 [Sign Up](Sign-Up.html)
 
